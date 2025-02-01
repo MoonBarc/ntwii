@@ -1,0 +1,6 @@
+[submodule "external/wpilib"]
+	path = external/wpilib
+	url = https://github.com/wpilibsuite/allwpilib
+[submodule "external/wiiuse"]
+	path = external/wiiuse
+	url = https://github.com/wiiuse/wiiuse.git
